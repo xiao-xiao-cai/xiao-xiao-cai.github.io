@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.astro/
+.cache/
+coverage/
+*.log
+.env
+.env.*
+!.env.example
+.agents/
+.codex/
+.codegraph/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
